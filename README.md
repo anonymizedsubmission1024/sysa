@@ -2,6 +2,7 @@
 
 A Visual Programming System  in JupyterLab for Authoring Reproducible Image Processing Workflows
 
+The use cases can be accessed directly via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymizedsubmission1024/Chaldene/HEAD) in the **`use_cases`** folder.
 ## Requirements
 
 - JupyterLab >= 4.0.0
