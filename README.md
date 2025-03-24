@@ -4,6 +4,10 @@ A Visual Programming System  in JupyterLab for Authoring Reproducible Image Proc
 
 The use cases can be accessed directly via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymizedsubmission1024/Chaldene/HEAD) in the **`use_cases`** folder.
 (If MyBinder encounters an internal server error, please refersh and try again)
+
+Chaldene tutorial https://youtu.be/SYRBdU8mQMw
+
+Chaldene use case https://youtu.be/Oosamoa33cs
 ## Requirements
 
 - JupyterLab >= 4.0.0
