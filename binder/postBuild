@@ -42,6 +42,10 @@ _("jupyter", "server", "extension", "list")
 # initially list installed extensions to determine if there are any surprises
 _("jupyter", "labextension", "list")
 
+# Fix for OpenCV libGL.so.1 issue: ensure headless version is used
+_(sys.executable, "-m", "pip", "uninstall", "-y", "opencv-python", "opencv-contrib-python")
+_(sys.executable, "-m", "pip", "install", "--no-cache-dir", "opencv-python-headless")
+
 
 print("JupyterLab with chaldene is ready to run with:\n")
 print("\tjupyter lab\n")

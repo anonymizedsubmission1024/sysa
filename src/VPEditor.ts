@@ -28,6 +28,10 @@ export class VPEditor implements CodeEditor.IEditor {
     return this.editor.getCode() ?? '';
   }
 
+  setBaseOptions(options: any): void {
+    // no-op, added for compatibility
+  }
+
   /**
    * A signal emitted when either the top or bottom edge is requested.
    */
