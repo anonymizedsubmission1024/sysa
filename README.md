@@ -1,13 +1,14 @@
-# chaldene
-
-A Visual Programming System  in JupyterLab for Authoring Reproducible Image Processing Workflows
-
-The use cases can be accessed directly via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymizedsubmission1024/Chaldene/HEAD) in the **`use_cases`** folder.
-(If MyBinder encounters an internal server error, please refersh and try again)
-
+# Chaldene
+ Lowering Barriers to Reproducible Image Processing Workflows in Computational Notebooks with Visual Programming
+ 
 Chaldene tutorial https://youtu.be/SYRBdU8mQMw
 
 Chaldene use case https://youtu.be/Oosamoa33cs
+
+Two of the workflows created by participants
+![task1](https://github.com/user-attachments/assets/f8aedb06-f0eb-48ba-b9d3-ca70186629f8)
+![task2](https://github.com/user-attachments/assets/d790d3f8-b8c7-42a5-83b8-6c220a37fe7c)
+
 ## Requirements
 
 - JupyterLab >= 4.0.0
@@ -34,8 +35,10 @@ pip uninstall chaldene
 ```
 
 ## Use Cases
+The use cases can be accessed directly via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymizedsubmission1024/Chaldene/HEAD) in the **`use_cases`** folder.
+(If MyBinder encounters an internal server error, please refersh and try again)
 
-Please refer to `Use_Cases` folders.
+For source code of use cases, please refer to `Use_Cases` folders.
 
 ## Contributing
 
