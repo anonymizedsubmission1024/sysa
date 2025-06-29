@@ -5,7 +5,7 @@ Chaldene tutorial https://youtu.be/SYRBdU8mQMw
 
 Chaldene use case https://youtu.be/Oosamoa33cs
 
-Two of the workflows created by participants
+Two of the workflows created by participants in the user study
 ![task1](https://github.com/user-attachments/assets/f8aedb06-f0eb-48ba-b9d3-ca70186629f8)
 ![task2](https://github.com/user-attachments/assets/d790d3f8-b8c7-42a5-83b8-6c220a37fe7c)
 
