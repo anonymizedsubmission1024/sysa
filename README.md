@@ -9,6 +9,12 @@ Two of the workflows created by participants in the user study
 ![task1](https://github.com/user-attachments/assets/f8aedb06-f0eb-48ba-b9d3-ca70186629f8)
 ![task2](https://github.com/user-attachments/assets/d790d3f8-b8c7-42a5-83b8-6c220a37fe7c)
 
+**We strongly recommend using Binder to test the use cases.**
+The use cases can be accessed directly via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anonymizedsubmission1024/Chaldene/HEAD) in the **`use_cases`** folder.
+(If MyBinder encounters an internal server error, please refersh and try again)
+
+For source code of use cases, please refer to `Use_Cases` folders.
+
 ## Requirements
 
 - JupyterLab >= 4.0.0
