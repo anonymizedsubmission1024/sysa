@@ -15,6 +15,8 @@ The use cases can be accessed directly via [![Binder](https://mybinder.org/badge
 
 For source code of use cases, please refer to `Use_Cases` folders.
 
+---
+
 ## Requirements
 
 - JupyterLab >= 4.0.0
