@@ -1,6 +1,8 @@
 # Chaldene
  Lowering Barriers to Reproducible Image Processing Workflows in Computational Notebooks with Visual Programming
- 
+
+Chaldene teaser https://youtu.be/CN3qY67QiXg
+
 Chaldene tutorial https://youtu.be/SYRBdU8mQMw
 
 Chaldene use case https://youtu.be/Oosamoa33cs
