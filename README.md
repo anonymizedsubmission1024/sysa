@@ -1,12 +1,12 @@
-# Chaldene
+# SysA
 
-\textit{Chaldene}: Notebook-Embedded Visual Programming for Authoring Interactive Image-Processing Workflows
+SysA: Supporting Scientific Image Processing Workflows Authoring and Documentation
 
-Chaldene teaser https://youtu.be/CN3qY67QiXg
+teaser https://youtu.be/CN3qY67QiXg
 
-Chaldene tutorial https://youtu.be/SYRBdU8mQMw
+tutorial https://youtu.be/SYRBdU8mQMw
 
-Chaldene use case https://youtu.be/Oosamoa33cs
+use case https://youtu.be/Oosamoa33cs
 
 Two of the workflows created by participants in the user study
 ![task1](https://github.com/user-attachments/assets/f8aedb06-f0eb-48ba-b9d3-ca70186629f8)
